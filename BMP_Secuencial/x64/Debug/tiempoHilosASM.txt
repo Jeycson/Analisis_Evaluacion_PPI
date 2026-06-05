@@ -1,0 +1,300 @@
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.377400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.351900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.208200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.212200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.309400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.163300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.973200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.075700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.867600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.336400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.391500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.293900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.230400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.245200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.415300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.947700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.110700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.526100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.578000 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.014800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.337200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.864200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.376500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.031700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.340400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.183500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.217200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.237800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.285800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.206600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.023100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.198100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.297800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.161100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.490400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.230200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.365200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.013200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.303100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.127200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.903400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.687900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.350900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.497100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.511300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.194200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.218500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.111300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.020500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 7.444400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.114600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.664700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.388300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.576900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.492400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.406500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.417000 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.702400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.348300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.188500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.186100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.282600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.656800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.093300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.900200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.228900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.896800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 7.808900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 8.606300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 8.278200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 6.634300 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 8.750900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.956100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.235800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.267600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.250900 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.622200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.258000 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.269600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.945100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.166100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.986400 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.822200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.016100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.398200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.863100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 5.098700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.926000 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.245700 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.060800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.998200 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.992000 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 7.895800 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.720600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.208500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.547500 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.819100 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.535600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 3.907600 ms
+
+C:\Users\jeycs\Downloads\BMP24bitsW\BMP24bitsW\x64\Debug>BMP24bitsW.exe
+Tiempo transcurrido: 4.307800 ms
