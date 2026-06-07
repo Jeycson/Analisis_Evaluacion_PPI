@@ -1,0 +1,8 @@
+Compilación:
+g++ -O3 -fopenmp -o bmp main.cpp BMP.cpp brightness_xmml.o
+
+O POR SEPARADO:
+g++ main_secuencial.cpp BMP.cpp -o secuencial_exec
+g++ main_simd.cpp BMP.cpp brightness_xmml.o -o simd_exec -pthread
+g++ -fopenmp main_omp.cpp BMP.cpp -o omp_exec
+

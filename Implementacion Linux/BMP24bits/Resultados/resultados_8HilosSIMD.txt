@@ -1,0 +1,200 @@
+Ejecución número: 1
+Tiempo transcurrido: 0.553965 ms
+Ejecución número: 2
+Tiempo transcurrido: 0.457803 ms
+Ejecución número: 3
+Tiempo transcurrido: 0.485300 ms
+Ejecución número: 4
+Tiempo transcurrido: 0.495430 ms
+Ejecución número: 5
+Tiempo transcurrido: 0.588188 ms
+Ejecución número: 6
+Tiempo transcurrido: 0.655464 ms
+Ejecución número: 7
+Tiempo transcurrido: 0.634569 ms
+Ejecución número: 8
+Tiempo transcurrido: 0.560748 ms
+Ejecución número: 9
+Tiempo transcurrido: 0.630504 ms
+Ejecución número: 10
+Tiempo transcurrido: 0.586940 ms
+Ejecución número: 11
+Tiempo transcurrido: 0.510186 ms
+Ejecución número: 12
+Tiempo transcurrido: 0.521872 ms
+Ejecución número: 13
+Tiempo transcurrido: 0.552822 ms
+Ejecución número: 14
+Tiempo transcurrido: 0.411584 ms
+Ejecución número: 15
+Tiempo transcurrido: 0.410798 ms
+Ejecución número: 16
+Tiempo transcurrido: 0.418628 ms
+Ejecución número: 17
+Tiempo transcurrido: 0.410458 ms
+Ejecución número: 18
+Tiempo transcurrido: 0.445671 ms
+Ejecución número: 19
+Tiempo transcurrido: 0.434941 ms
+Ejecución número: 20
+Tiempo transcurrido: 0.520173 ms
+Ejecución número: 21
+Tiempo transcurrido: 0.447724 ms
+Ejecución número: 22
+Tiempo transcurrido: 0.404460 ms
+Ejecución número: 23
+Tiempo transcurrido: 0.625364 ms
+Ejecución número: 24
+Tiempo transcurrido: 0.487413 ms
+Ejecución número: 25
+Tiempo transcurrido: 0.519669 ms
+Ejecución número: 26
+Tiempo transcurrido: 0.523675 ms
+Ejecución número: 27
+Tiempo transcurrido: 0.473719 ms
+Ejecución número: 28
+Tiempo transcurrido: 0.864224 ms
+Ejecución número: 29
+Tiempo transcurrido: 0.875433 ms
+Ejecución número: 30
+Tiempo transcurrido: 0.657466 ms
+Ejecución número: 31
+Tiempo transcurrido: 0.606824 ms
+Ejecución número: 32
+Tiempo transcurrido: 0.390408 ms
+Ejecución número: 33
+Tiempo transcurrido: 0.430960 ms
+Ejecución número: 34
+Tiempo transcurrido: 0.506420 ms
+Ejecución número: 35
+Tiempo transcurrido: 0.849296 ms
+Ejecución número: 36
+Tiempo transcurrido: 0.490588 ms
+Ejecución número: 37
+Tiempo transcurrido: 0.415776 ms
+Ejecución número: 38
+Tiempo transcurrido: 1.012828 ms
+Ejecución número: 39
+Tiempo transcurrido: 0.403199 ms
+Ejecución número: 40
+Tiempo transcurrido: 0.474379 ms
+Ejecución número: 41
+Tiempo transcurrido: 0.697138 ms
+Ejecución número: 42
+Tiempo transcurrido: 0.556999 ms
+Ejecución número: 43
+Tiempo transcurrido: 0.442177 ms
+Ejecución número: 44
+Tiempo transcurrido: 0.526619 ms
+Ejecución número: 45
+Tiempo transcurrido: 0.490229 ms
+Ejecución número: 46
+Tiempo transcurrido: 0.465352 ms
+Ejecución número: 47
+Tiempo transcurrido: 0.615254 ms
+Ejecución número: 48
+Tiempo transcurrido: 0.521031 ms
+Ejecución número: 49
+Tiempo transcurrido: 0.962333 ms
+Ejecución número: 50
+Tiempo transcurrido: 0.451359 ms
+Ejecución número: 51
+Tiempo transcurrido: 0.445833 ms
+Ejecución número: 52
+Tiempo transcurrido: 0.685432 ms
+Ejecución número: 53
+Tiempo transcurrido: 0.666405 ms
+Ejecución número: 54
+Tiempo transcurrido: 0.612127 ms
+Ejecución número: 55
+Tiempo transcurrido: 0.603367 ms
+Ejecución número: 56
+Tiempo transcurrido: 1.034397 ms
+Ejecución número: 57
+Tiempo transcurrido: 0.724412 ms
+Ejecución número: 58
+Tiempo transcurrido: 0.517567 ms
+Ejecución número: 59
+Tiempo transcurrido: 0.885682 ms
+Ejecución número: 60
+Tiempo transcurrido: 0.691417 ms
+Ejecución número: 61
+Tiempo transcurrido: 0.716654 ms
+Ejecución número: 62
+Tiempo transcurrido: 0.902732 ms
+Ejecución número: 63
+Tiempo transcurrido: 0.478843 ms
+Ejecución número: 64
+Tiempo transcurrido: 0.484548 ms
+Ejecución número: 65
+Tiempo transcurrido: 0.516157 ms
+Ejecución número: 66
+Tiempo transcurrido: 0.524115 ms
+Ejecución número: 67
+Tiempo transcurrido: 0.740963 ms
+Ejecución número: 68
+Tiempo transcurrido: 0.432422 ms
+Ejecución número: 69
+Tiempo transcurrido: 0.496287 ms
+Ejecución número: 70
+Tiempo transcurrido: 0.969152 ms
+Ejecución número: 71
+Tiempo transcurrido: 0.444137 ms
+Ejecución número: 72
+Tiempo transcurrido: 0.481862 ms
+Ejecución número: 73
+Tiempo transcurrido: 1.036515 ms
+Ejecución número: 74
+Tiempo transcurrido: 0.728700 ms
+Ejecución número: 75
+Tiempo transcurrido: 0.543743 ms
+Ejecución número: 76
+Tiempo transcurrido: 0.475222 ms
+Ejecución número: 77
+Tiempo transcurrido: 0.521567 ms
+Ejecución número: 78
+Tiempo transcurrido: 0.441648 ms
+Ejecución número: 79
+Tiempo transcurrido: 0.742609 ms
+Ejecución número: 80
+Tiempo transcurrido: 0.716831 ms
+Ejecución número: 81
+Tiempo transcurrido: 0.983200 ms
+Ejecución número: 82
+Tiempo transcurrido: 0.555851 ms
+Ejecución número: 83
+Tiempo transcurrido: 0.639068 ms
+Ejecución número: 84
+Tiempo transcurrido: 0.500419 ms
+Ejecución número: 85
+Tiempo transcurrido: 0.795940 ms
+Ejecución número: 86
+Tiempo transcurrido: 1.570059 ms
+Ejecución número: 87
+Tiempo transcurrido: 0.765174 ms
+Ejecución número: 88
+Tiempo transcurrido: 0.490294 ms
+Ejecución número: 89
+Tiempo transcurrido: 0.429328 ms
+Ejecución número: 90
+Tiempo transcurrido: 0.652430 ms
+Ejecución número: 91
+Tiempo transcurrido: 0.761103 ms
+Ejecución número: 92
+Tiempo transcurrido: 0.495561 ms
+Ejecución número: 93
+Tiempo transcurrido: 0.431925 ms
+Ejecución número: 94
+Tiempo transcurrido: 0.408363 ms
+Ejecución número: 95
+Tiempo transcurrido: 0.518893 ms
+Ejecución número: 96
+Tiempo transcurrido: 0.566779 ms
+Ejecución número: 97
+Tiempo transcurrido: 0.648344 ms
+Ejecución número: 98
+Tiempo transcurrido: 0.635471 ms
+Ejecución número: 99
+Tiempo transcurrido: 0.584200 ms
+Ejecución número: 100
+Tiempo transcurrido: 0.499427 ms
