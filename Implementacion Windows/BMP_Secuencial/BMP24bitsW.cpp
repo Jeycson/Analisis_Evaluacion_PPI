@@ -14,14 +14,6 @@ Jairo Iván Hipolito Morales
 #include <Windows.h>
 #include "BMP.h"
 
-struct stDatos {
-    unsigned char u[16];
-    BYTE* gimg;
-    int size;
-};
-
-typedef struct stDatos STDATOS;
-
 int main(int argc, char** argv)
 {
 	LARGE_INTEGER tinicio, tfin, frec;

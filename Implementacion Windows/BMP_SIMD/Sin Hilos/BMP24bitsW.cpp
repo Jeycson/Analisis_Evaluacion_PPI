@@ -14,13 +14,6 @@ Jairo Iván Hipolito Morales
 #include <Windows.h>
 #include "BMP.h"
 
-struct stDatos {
-    unsigned char u[16];
-    BYTE* gimg;
-    int size;
-};
-
-typedef struct stDatos STDATOS;
 extern "C" void brightness_xmmw(unsigned char u[16], BYTE* gimg, int size);
 
 int main(int argc, char** argv)

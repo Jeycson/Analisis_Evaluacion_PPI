@@ -27,7 +27,4 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Object Include="brightness_xmmw.obj" />
-  </ItemGroup>
 </Project>

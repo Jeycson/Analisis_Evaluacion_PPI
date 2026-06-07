@@ -136,9 +136,6 @@
   <ItemGroup>
     <ClInclude Include="BMP.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Object Include="brightness_xmmw.obj" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
