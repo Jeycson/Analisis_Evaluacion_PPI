@@ -9,8 +9,6 @@ Autor: Christiam Mena
 #include <Windows.h>
 #include "BMP.h"
 
-#define NUMH 16
-
 struct stDatos {
     unsigned char u[16];
     BYTE* gimg;
@@ -27,19 +25,10 @@ int main(int argc, char** argv)
 							50, 50, 50, 50,
 							50, 50, 50, 50,
 							50, 50, 50, 50 };
-	
-	HANDLE hThread[NUMH] = { NULL };
-	LPDWORD dwThreadId[NUMH] = { NULL };
-	STDATOS datos[NUMH];
-	int i;
 
 	BMP bmp("nature_mediana.bmp");	
 	//BMP bmp("nature_grande.bmp");
 	//BMP bmp("nature_muy_grande.bmp");
-
-	BYTE* base_img = bmp.getImageData();
-	int total_size = bmp.getImageSize();
-	int chunck_size = total_size / NUMH;
 
 	QueryPerformanceFrequency(&frec);
 	QueryPerformanceCounter(&tinicio);
