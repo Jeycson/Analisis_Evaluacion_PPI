@@ -2,6 +2,11 @@
 Cargar y procesar imágenes BMP de 24bits con C++
 http://www.widget-101.com/
 Autor: Christiam Mena
+Editado por: 
+Jeycson Gabriel López Hernández
+Jeovani Pacheco Rueda
+Mariana Palacios Trinidad
+Jairo Iván Hipolito Morales
 */
 
 #include <stdio.h>  
@@ -43,6 +48,5 @@ int main(int argc, char** argv)
 
 	bmp.save("nature_sec_50.bmp");
 
-	//getchar();  // Con esta línea evitaremos que se cierre la consola
 	return 0;
 }
