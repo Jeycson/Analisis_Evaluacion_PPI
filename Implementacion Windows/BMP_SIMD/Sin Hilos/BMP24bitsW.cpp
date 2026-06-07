@@ -21,6 +21,7 @@ struct stDatos {
 };
 
 typedef struct stDatos STDATOS;
+extern "C" void brightness_xmmw(unsigned char u[16], BYTE* gimg, int size);
 
 int main(int argc, char** argv)
 {
@@ -38,7 +39,7 @@ int main(int argc, char** argv)
 	QueryPerformanceFrequency(&frec);
 	QueryPerformanceCounter(&tinicio);
 	
-	bmp.brightness(50);
+	brightness_xmmw(u, bmp.getImageData(), bmp.getImageSize());
 	
 	QueryPerformanceCounter(&tfin);
 
